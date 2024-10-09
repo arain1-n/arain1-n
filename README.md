@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+##I’m currently learning CSC225
 <!--
 **arain1-n/arain1-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
